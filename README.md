@@ -1,1 +1,1 @@
-# Coffe-Shop-Sales
+# Coffee-Shop-Sales
